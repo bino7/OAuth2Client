@@ -1,10 +1,5 @@
 package com.yunpos;
 
-/**
- * The access token.
- * 
- * @author Maycon Bordin <mayconbordin@gmail.com>
- */
 public class Token {
     private final long expiresIn;
     private final long expiresAt;
